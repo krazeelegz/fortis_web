@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1432480103 source:d:\programele mari si programele mici\testpoo\main.cpp
+	<iostream>
+	<cmath>
+	<cstring>
+
+1432470670 source:d:\programele mari si programele mici\testpoo\test1.cpp
+	<iostream>
+
