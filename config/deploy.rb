@@ -1,7 +1,7 @@
 lock '3.4.0'
 
 set :application, 'fortisg'
-set :repo_url, 'git@github.com:krazeelegz/fortisg.git'
+set :repo_url, 'git@github.com:krazeelegz/fortis_web.git'
 
 set :deploy_to, '/home/deploy/fortisg'
 
