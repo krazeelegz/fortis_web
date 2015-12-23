@@ -20,7 +20,7 @@ require 'capistrano/deploy'
       set :rvm_ruby_version, '2.2.4'
 
     require 'capistrano/bundler'
-    require 'capistrano/rails/assets'
+    # require 'capistrano/rails/assets'
     require 'capistrano/rails/migrations'
 
 # require 'capistrano/rvm'
